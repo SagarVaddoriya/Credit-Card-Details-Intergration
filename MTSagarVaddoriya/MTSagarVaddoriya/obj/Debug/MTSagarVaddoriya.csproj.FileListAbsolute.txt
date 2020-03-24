@@ -1,0 +1,10 @@
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\bin\Debug\MTSagarVaddoriya.exe.config
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\bin\Debug\MTSagarVaddoriya.exe
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\bin\Debug\MTSagarVaddoriya.pdb
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\obj\Debug\MTSagarVaddoriya.csprojAssemblyReference.cache
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\obj\Debug\MTSagarVaddoriya.Form1.resources
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\obj\Debug\MTSagarVaddoriya.Properties.Resources.resources
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\obj\Debug\MTSagarVaddoriya.csproj.GenerateResource.cache
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\obj\Debug\MTSagarVaddoriya.exe
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\obj\Debug\MTSagarVaddoriya.pdb
+C:\Users\PISTON\source\repos\MTSagarVaddoriya\MTSagarVaddoriya\obj\Debug\MTSagarVaddoriya.Form2.resources
